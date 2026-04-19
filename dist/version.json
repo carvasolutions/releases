@@ -1,6 +1,9 @@
 {
   "min_supported": "1.0.0",
   "latest": "1.0.0+16",
+  "latest_android": "1.0.0+16",
+  "latest_windows": "1.0.0+16",
+  "latest_linux": "1.0.0+16",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.pegarifa.client_lottery_app",
   "android_apk_url": "https://github.com/pegarifa/releases/raw/stage/dist/Pegarifa-android-1.0.0-b16.apk",
   "android_apk_sha256": "91c4c0ba9015033a4c8cf60c62417b1967b55ccbe4d00117cbb6dc4bf546866f",
