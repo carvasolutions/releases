@@ -1,13 +1,13 @@
 {
   "min_supported": "1.0.0",
-  "latest": "1.0.0+36",
-  "latest_android": "1.0.0+36",
-  "latest_windows": "1.0.0+36",
+  "latest": "1.0.0+37",
+  "latest_android": "1.0.0+37",
+  "latest_windows": "1.0.0+37",
   "latest_linux": "1.0.0+17",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.pegarifa.client_lottery_app",
-  "android_apk_url": "https://github.com/pegarifa/releases/raw/stage/dist/Pegarifa-android-1.0.0-b36.apk",
-  "android_apk_sha256": "26b548112046e8225941ae53b167690ce1f72f6c004b32e6e1c2b50aea961e23",
-  "windows_installer_url": "https://github.com/pegarifa/releases/raw/stage/dist/Pegarifa-Setup-1.0.0-b36.exe",
-  "windows_installer_sha256": "fd7ad8025535318d524296241fd46f8eab1708e8f3b83eff85f6d08b9061b61c",
+  "android_apk_url": "https://github.com/pegarifa/releases/raw/stage/dist/Pegarifa-android-1.0.0-b37.apk",
+  "android_apk_sha256": "5eefbff1b0273d6b4e341f800f785ca93f73c5a5b517f3bda6c2e51f8a407902",
+  "windows_installer_url": "https://github.com/pegarifa/releases/raw/stage/dist/Pegarifa-Setup-1.0.0-b37.exe",
+  "windows_installer_sha256": "c29fc8e4f0947d8ba3e47da42dcdc4966d225300abea247fde6ab050dcb770ef",
   "linux_download_url": "https://releases.example.com/client-lottery-app.AppImage"
 }
