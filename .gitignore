@@ -1,0 +1,27 @@
+# Binaries for programs and plugins
+*.exe
+*.apk
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with Litmus
+*.out
+
+# Environment variables
+.env
+.env.*
+
+# IDEs
+.idea/
+.vscode/
+
+# Docker
+docker-compose.override.yml
+
+# Coverage
+coverage/
