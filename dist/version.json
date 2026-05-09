@@ -1,13 +1,13 @@
 {
   "min_supported": "1.0.0",
-  "latest": "1.0.0+44",
-  "latest_android": "1.0.0+44",
-  "latest_windows": "1.0.0+44",
+  "latest": "1.0.0+45",
+  "latest_android": "1.0.0+45",
+  "latest_windows": "1.0.0+45",
   "latest_linux": "1.0.0+17",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.pegarifa.client_lottery_app",
-  "android_apk_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Mobile-1.0.0-b44.apk",
-  "android_apk_sha256": "5724ff5e3223e4eb5481a6b87d372bb76ff7034df43d93b3021dcc074702c636",
-  "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b44.exe",
-  "windows_installer_sha256": "f5edeb7ef7c182913b038466bc56a8e0dc79cb3e3976fcd88f7f0cd0c660a997",
+  "android_apk_url": "https://github.com/carvasolutions/releases/raw/stage/dist/CL-Mobile-1.0.0-b45.apk",
+  "android_apk_sha256": "c9046a5378e9ffa2b57a691e02114e4583fcffb7fc154a24e957b0b665ae8349",
+  "windows_installer_url": "https://github.com/carvasolutions/releases/raw/stage/dist/CL-Desktop-1.0.0-b45.exe",
+  "windows_installer_sha256": "cff84a09f68052b8b969adddab9a27f5965900df952713cfb5ea870f6fc277d9",
   "linux_download_url": "https://releases.example.com/client-lottery-app.AppImage"
 }
