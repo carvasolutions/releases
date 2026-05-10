@@ -1,13 +1,13 @@
 {
   "min_supported": "1.0.0",
-  "latest": "1.0.0+46",
-  "latest_android": "1.0.0+46",
-  "latest_windows": "1.0.0+46",
+  "latest": "1.0.0+47",
+  "latest_android": "1.0.0+47",
+  "latest_windows": "1.0.0+47",
   "latest_linux": "1.0.0+17",
   "android_store_url": "https://play.google.com/store/apps/details?id=com.carvasolutions.client_lottery_app",
-  "android_apk_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Mobile-1.0.0-b46.apk",
-  "android_apk_sha256": "1bddc841bf8d992a8956edc4a90de7f95b0513c2d74eb1301312c5991ad4ac3e",
-  "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b46.exe",
-  "windows_installer_sha256": "43e9b4f0c1363b0b1bf0f7f125675c40cdc8e4381951974998995ff44137e0d7",
+  "android_apk_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Mobile-1.0.0-b47.apk",
+  "android_apk_sha256": "bedd5a80406350e6bef41f4e41f6e0d5e72862f0f79b98fdc4e6c1910b17e704",
+  "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b47.exe",
+  "windows_installer_sha256": "92d52a5a664976c968fafc3f38266e3c07fdb71b7e6dea9ff2a2df8060a6ae1e",
   "linux_download_url": "https://releases.example.com/CL-Desktop-1.0.0-b17.AppImage"
 }
