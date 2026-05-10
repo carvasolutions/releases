@@ -4,7 +4,7 @@
   "latest_android": "1.0.0+46",
   "latest_windows": "1.0.0+46",
   "latest_linux": "1.0.0+17",
-  "android_store_url": "https://play.google.com/store/apps/details?id=com.pegarifa.client_lottery_app",
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.carvasolutions.client_lottery_app",
   "android_apk_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Mobile-1.0.0-b46.apk",
   "android_apk_sha256": "1bddc841bf8d992a8956edc4a90de7f95b0513c2d74eb1301312c5991ad4ac3e",
   "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b46.exe",

@@ -1,6 +1,6 @@
-# pegarifa/releases
+# carvasolutions/releases
 
-Repositorio público de **artefactos de distribución** (instaladores Windows, etc.) para Pegarifa.
+Repositorio público de **artefactos de distribución** (instaladores Windows, APK, manifiesto) para **CL** (Carvasolutions).
 
 ## Windows — instalador Inno
 
@@ -11,6 +11,6 @@ Los binarios los sube el workflow **Publish Windows installer to releases repo**
 
 **URL raw** para el manifiesto (`windows_installer_url`), ejemplo:
 
-`https://github.com/pegarifa/releases/raw/stage/dist/CL-Desktop-1.0.0-b3.exe`
+`https://github.com/carvasolutions/releases/raw/stage/dist/CL-Desktop-1.0.0-b3.exe`
 
 Documentación: [client-lottery-app/docs/releases-repo-setup.md](https://github.com/pegarifa/client-lottery-app/blob/main/docs/releases-repo-setup.md)
