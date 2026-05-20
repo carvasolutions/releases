@@ -10,6 +10,6 @@
   "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b52.exe",
   "windows_installer_sha256": "8a4aaad57d6c7aba7642c850cbf243b716d743c529b2c2ed28a218886c76dfd9",
   "windows_installer_url_win7": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b52-win7.exe",
-  "windows_installer_sha256_win7": "",
+  "windows_installer_sha256_win7": "eb1ed1e610f874c218a43a45efd251137e34737647708197a7b231ab4861b31c",
   "linux_download_url": "https://releases.example.com/CL-Desktop-1.0.0-b17.AppImage"
 }
