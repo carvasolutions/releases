@@ -8,7 +8,7 @@
   "android_apk_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Mobile-1.0.0-b64.apk",
   "android_apk_sha256": "1672ff8cf832b5bac2cea7813f0e90ce54c3caa410d249445503df2d0817925b",
   "windows_installer_url": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b64.exe",
-  "windows_installer_sha256": "fa385275c67cdae853bf9ff6767f482f4f9badc1f874d19167c6b23564f8923e",
+  "windows_installer_sha256": "3e07e6ad95dc4da082923bd0340eed1656f2bd1c33c44964b7147a422698b803",
   "windows_installer_url_win7": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b52-win7.exe",
   "windows_installer_sha256_win7": "0492eced6231c24f161cd6a76e313f4118377e7b6fc051a0218cf4011b907dc0",
   "linux_download_url": "https://releases.example.com/CL-Desktop-1.0.0-b17.AppImage"
