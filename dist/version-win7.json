@@ -1,7 +1,7 @@
 {
   "min_supported": "1.0.0",
-  "latest": "1.0.0+73",
-  "latest_windows_win7": "1.0.0+73",
-  "windows_installer_url_win7": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b73-win7.exe",
-  "windows_installer_sha256_win7": "5f55cc03ea1878ee216d41454dff803189468c6dc4f7da07e086eff91c843dcb"
+  "latest": "1.0.0+74",
+  "latest_windows_win7": "1.0.0+74",
+  "windows_installer_url_win7": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b74-win7.exe",
+  "windows_installer_sha256_win7": "1428c6cc33c50fe1fd90d2683fa44c47a6276133812a728d894ead5073463a26"
 }
