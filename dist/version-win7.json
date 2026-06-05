@@ -3,5 +3,5 @@
   "latest": "1.0.0+71",
   "latest_windows_win7": "1.0.0+71",
   "windows_installer_url_win7": "https://releases-dist.s3.us-east-005.backblazeb2.com/stage/CL-Desktop-1.0.0-b71-win7.exe",
-  "windows_installer_sha256_win7": "85e8800554780912047125783cbfda7cc6ce78a0277a93980c1a9137f987e66a"
+  "windows_installer_sha256_win7": "ec497c4405f10bb74a065b17b0f69fe7253779516d22ffc7a9e79927ea4df687"
 }
